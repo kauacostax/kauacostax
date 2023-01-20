@@ -1,19 +1,45 @@
-## Oiii eu sou o Antonio Kauã, fanatico por programação e tecnologia!
+## Hii<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antonio Kauã, a programming and technology fanatic!
 
-Meu nome é Antonio Kauã e eu sou um apaixonado por tecnologia que decidiu trilhar o caminho da programação. Atualmente estou focando nas tecnologias voltadas ao FrontEnd. Com as ferramentas HTML CSS JAVASCRIPT
+
+My name is Antonio Kauã and I am passionate about technology who decided to follow the path of programming. I'm currently focusing on FrontEnd technologies. With HTML CSS JAVASCRIPT tools
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kauacostax&color=blue" alt="Profile views" /> </p>
+
+<br>
+
+## 🛠 tools I work with
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kaua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="kaua-pic" height="150" style="border-radius:50px;" src="https://static.vecteezy.com/ti/vetor-gratis/t2/3654555-k-letter-logo-icon-for-business-and-company-vetor.jpg">
+   <img align="right" alt="kaua-pic" height="250" style="border-radius:50px;" src="https://static.vecteezy.com/ti/vetor-gratis/t2/3654555-k-letter-logo-icon-for-business-and-company-vetor.jpg">
 </div>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kauacostax&show_icons=true&theme=vision-friendly-dark" alt="kauacostax stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacostax&layout=compact&theme=vision-friendly-dark" alt="kauacostax most languages"/>
+</p>
+
+
+<br><br>
   
-  ##
+## Contact 
  
-<div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:limaantonio@acad.ifam.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+<a href="https://instagram.com/kauacostax" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kauacostax-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://wa.me/p/559884300574" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-kauacostax-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
+</p>
