@@ -21,7 +21,7 @@ My name is Antonio Kauã and I am passionate about technology who decided to fol
 
 
 <div style="display: inline_block"><br>
-   <img align="right" alt="kaua-pic" height="250" style="border-radius:50px;" src="https://static.vecteezy.com/ti/vetor-gratis/t2/3654555-k-letter-logo-icon-for-business-and-company-vetor.jpg">
+   <img align="right" alt="kaua-pic" height="250" align-itens="center" style="border-radius:50px;" src="https://static.vecteezy.com/ti/vetor-gratis/t2/3654555-k-letter-logo-icon-for-business-and-company-vetor.jpg">
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
