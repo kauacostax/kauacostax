@@ -39,7 +39,7 @@ My name is Antonio Kauã and I am passionate about technology who decided to fol
 <a href="https://instagram.com/kauacostax" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-kauacostax-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://wa.me/p/559884300574" target="_blank">
+<a href="https://wa.me/559884300574" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-kauacostax-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 </p>
